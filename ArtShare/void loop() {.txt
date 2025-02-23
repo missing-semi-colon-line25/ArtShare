@@ -1,0 +1,8 @@
+void loop() {
+  static int previousDay = 0;
+  if (Time.day() != previousDay) {
+    previousDay = Time.day();
+    // do the reset stuff
+  }
+  ...
+}

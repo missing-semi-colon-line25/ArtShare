@@ -1,0 +1,30 @@
+<html>
+<head>
+<script type="text/javascript">
+
+import java.sql.*;
+public class ConnectDB {
+	public static void main(String[] args)
+	{
+		Connection connection=null;
+		try 
+		{
+			Class.forName("org.postgresql.Driver");
+			connection=DriverManager.getConnection("jdbc:postgresql://localhost:5432/ArtShare","postgres","postgresaccp1");
+			if(connection!=null)
+				{ System.out.println("Connection established!");}
+			else
+				{System.out.println("Connection failed!");}
+		}
+		catch(Exception e)
+		{
+			System.out.println(e);
+		}
+	}
+}
+</script>
+</head>
+<body>
+hello
+</body>
+</html>

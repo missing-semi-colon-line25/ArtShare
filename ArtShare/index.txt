@@ -1,0 +1,150 @@
+ 
+
+
+Progressive Education Society’s Modern College of Arts, Science and Commerce (Autonomous)
+ Shivajinagar, Pune – 411005
+
+Project Certificate
+
+
+This is to certify that Mr./Miss 	
+Roll No.                         of Class T.Y.B.Sc Computer Science has completed                                               his/her Project work in Lab-II (Web Programming and project ), as a part of the curriculum during the Academic Year 2023-24.
+Project Guide :
+
+                                                                            
+Vice-Principal
+Head ,
+Department of Computer Science
+                  
+                                         
+Examiners:
+Name                                                                        sign
+1._______________________                      __________
+2._______________________                      __________
+                                                                
+MODERN COLLEGE OF ARTS, COMMERCE AND SCIENCE , SHIVAJINAGAR , PUNE 411005
+Affiliated to
+ 
+Savitribai Phule Pune University
+ PROJECT REPORT ON
+“Art Share(Art stock market)”
+BY
+Ayush Nitin Bhosle(2372147)
+Kashish Sandeep Shroff(2372137)
+Under the guidance of
+Prof Mrs. Sheetal Patil
+In Partial fulfillment of
+TY.BSc(CS)
+Academic Year 2023-2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INDEX
+
+Sr. No.	CONTENTS	Page No.
+1.	INTRODUCTION
+- Problem Defination	
+2.	Need for Computerizataion	
+3.	Scope of the Proposed System  	 
+4.	Objectives of the Proposed System	
+5.	Fact Finding Techniques	
+6. 	Platform (H/W , S/W,OTE)	
+7.	Analysis Specification (E-R Diagram if Applicable)	
+8.	Data Dictionary	
+9.	Design Specification 
+Class Daigram
+Usecase Daigram
+Activity Diagram
+Sequence Diagram 
+Deployment diagram	
+10.	Testing Strategies	
+11.	Implementation Strategies	
+12.	Sample I/P Screens	
+13.	Output Formats samples	
+14.	Limitations and Drawbacks	
+15.	Future Enhancements	
+16.	Conclusion	
+17.	References and bibliography	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                 
